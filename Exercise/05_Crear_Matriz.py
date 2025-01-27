@@ -24,4 +24,3 @@ valor_inicial = int(input("Escribe un número que se mostrará en la matriz: "))
 
 # Llamar a la función con los valores ingresados
 crear_matriz(m, n, valor_inicial)
-
